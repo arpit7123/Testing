@@ -1,9 +1,9 @@
 # Testing
 
-This is a testing repo
+Ths is a testing repo
 
 
-I want to test github functionality in this
+I want o test github functionality in this
 
 
-and then close it.
+ad then close it.
